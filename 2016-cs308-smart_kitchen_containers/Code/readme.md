@@ -59,7 +59,8 @@ The tiva code should be loaded into tiva-board ofcourse.
 Demonstration Video 
 =========================  
 Add the youtube link of the screencast of your project demo.
-
+demo :https://www.youtube.com/playlist?list=PLKmRvLBWkkYJmNHPyurvITOM5-hm36Jj5  
+installation instructions: https://www.youtube.com/playlist?list=PLKmRvLBWkkYIPQrsLN00YDgjKLTpLdehF  
 
 References 
 =========== 
